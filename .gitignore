@@ -44,3 +44,6 @@ next-env.d.ts
 # Claude Code
 /.claude
 prompts.md
+
+# temporary files
+/local_tmp
