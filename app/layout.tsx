@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "在庫管理システム",
+  title: "【在庫管理システム】",
   description: "倉庫の入出庫・在庫を管理するシステム",
 };
 
